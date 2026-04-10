@@ -1,2 +1,0 @@
-# threads-archive-bot
-Private
